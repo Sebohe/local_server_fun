@@ -1,6 +1,6 @@
 body {
-    margin: 1em;
-    background-color: #f34141;
+    margin: 5em;
+    background-color: #7BB5EF;
 }
 
 a {
@@ -35,7 +35,7 @@ footer {
 .container {
     overflow: hidden;
     background-color: #fff;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 /* ***** */
@@ -63,6 +63,16 @@ a[href$="/"]:before {
 a[href$=".md5"]:before {
     background: url(../images/icons/checksum.png);
 }
+
+/* Media */
+a[href$=".mp3"]:before {
+    background: url(../images/icons/play.png);
+}
+
+a[href$=".mp4"]:before {
+    background: url(../images/icons/play.png);
+}
+
 
 /* Compression */
 
