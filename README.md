@@ -1,4 +1,4 @@
-# Manala Nginx Autoindex Theme
+# [Forked from Manala Nginx Autoindex Theme](https://github.com/manala/nginx-autoindex-theme)
 
 ## Integration
 
